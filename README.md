@@ -1,7 +1,3 @@
-Here's a structured and engaging README template for your **ksecure** project on GitHub:
-
----
-
 # ksecure
 
 ## 🌐 A Step Towards a Secure and Manipulation-Free Internet
@@ -103,7 +99,3 @@ If you have any questions or feedback, feel free to reach out:
 ### 🌍 Join Us on Our Mission!
 
 Together, we can create a safer, more transparent internet. Thank you for visiting **ksecure**. Follow our progress and help us make the internet a better place for everyone!
-
---- 
-
-This template provides an organized, professional layout to showcase **ksecure**'s purpose, goals, and usage details effectively on GitHub.
